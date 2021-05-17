@@ -6,8 +6,8 @@ var cors = require('cors');
 const app = express();
 
 // Used for postman testing
-const routes = require('./routes/api/books');
-app.use('/api/books', routes);
+// const routes = require('./routes/api/books');
+// app.use('/api/books', routes);
 
 // Routes
 const books = require('./routes/api/books');
