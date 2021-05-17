@@ -1,3 +1,3 @@
-# MERN_tutorial
+# Job Application Organizer API
  
- Quick tutorial project on how to approach the MERN web stack.
+ The API for a Job Application Organizer web application powered by the MERN stack.

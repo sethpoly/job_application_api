@@ -1,7 +1,7 @@
 {
-  "name": "mern_tutorial",
+  "name": "job_api",
   "version": "1.0.0",
-  "description": "tutorial for MERN stack",
+  "description": "Backend api for job application site",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
